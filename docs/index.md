@@ -35,4 +35,10 @@ This documentation is organized into the following sections:
 - **[Troubleshooting Guide](./troubleshooting.md):** Find solutions to common problems and FAQs.
 - **[Terms of Service and Privacy Notice](./tos-privacy.md):** Information on the terms of service and privacy notices applicable to your use of Gemini CLI.
 
+## Examples and Advanced Usage
+
+- **[JavaScript Adapter Guide](./javascript-adapter-guide.md):** Comprehensive guide for building JavaScript adapters for advanced Gemini usage in headless mode, specifically designed for test automation and feeding context to other agents.
+- **[Quick Reference](./javascript-adapter-quick-reference.md):** Condensed reference for common JavaScript adapter patterns and essential usage examples.
+- **[Working Examples](./examples/):** Complete working examples including headless adapter implementations and practical code samples.
+
 We hope this documentation helps you make the most of the Gemini CLI!
